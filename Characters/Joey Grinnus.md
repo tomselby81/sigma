@@ -1,0 +1,3 @@
+Joey Grinnus is the famously immature crime boss at the forefront of [[The Crown|The Crown's]] underworld. He is ruthless and violent, and has a love for music, clothes, and a punk aesthetic.
+
+Joey is a Hadozee wildespace sailor, who was kicked from his spelljammer for being a nuisance. He was stranded on The Crown and killed his way to the top. He has ruled the crime in the city for almost 40 years now.

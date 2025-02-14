@@ -1,0 +1,1 @@
+Shadowcaste was a new town, only just getting settled when a force of constructs landed there and commandeered it for themselves. They only killed civilians who directly attacked them, and are treating the townspeople with respect. 
