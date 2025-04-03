@@ -1,0 +1,2 @@
+Mortherpoint is the largest city in the [[DM Info(dont read pls)/Locations/The Dead Gate/Lake of Storms/Lake of Storms]], and it contains a market square, tavern, docks, houses and farmland.
+![[mortherpoint.png]]

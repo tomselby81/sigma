@@ -17,10 +17,10 @@ zoomDelta: 0.5
 ```
 
 List of towns:
-- [[Emberfire]]
-- [[Goldcot]]
-- [[Mortherpoint]]
-- [[Shadowcaste]]
+- [[DM Info(dont read pls)/Locations/The Dead Gate/Lake of Storms/Towns/Emberfire]]
+- [[DM Info(dont read pls)/Locations/The Dead Gate/Lake of Storms/Towns/Goldcot]]
+- [[DM Info(dont read pls)/Locations/The Dead Gate/Lake of Storms/Towns/Mortherpoint]]
+- [[DM Info(dont read pls)/Locations/The Dead Gate/Lake of Storms/Towns/Shadowcaste]]
 - [[Dark Watch]]
 - [[Blackbloom]]
 

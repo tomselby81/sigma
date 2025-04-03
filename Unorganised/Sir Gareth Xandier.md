@@ -1,0 +1,1 @@
+Gareth Xandier is a large Leonin man, in charge of the [[Adventure Society]] forces within The Crown and it's surrounding area. He is gruff, blunt, and aggressive towards new people. He is a level 16 barbarian(statblock still in progress). 
