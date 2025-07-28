@@ -2,8 +2,8 @@ The Nightwalker is a lawful evil character, who is one of the primary recurring 
 
 The Nightwalker is a [[Nightwalker]] who was summoned from the Negative Plane by a powerful sorcerer instead of being swapped with a living creature. Due to this, it has no driving purpose to kill its trapped creature like other nightwalkers would. It has been living in the material plane for long enough to have come to terms with its thirst for death, and now seeks to find its way back to the Negative Plane.
 
-The Nightwalker resembles a normal [[Nightwalker]], although it is much shorter, at only about 9 feet tall and its horns have been severed close to the base. It wears a robe and has a weapon unknown to the PCs slung over its back. It uses a normal [[Nightwalker]] statblock but with an extra 10 points in Intelligence, Wisdom, and Charisma, and with and extra 100 hit points.
-The theme song for this NPC is: St James Infirmary by Hugh Laurie
+The Nightwalker resembles a normal [[Nightwalker]], although it is much shorter, at only about 9 feet tall and its horns have been severed close to the base. It wears a robe and has a rifle slung over its back. It uses a normal [[Nightwalker]] statblock but with an extra 10 points in Intelligence, Wisdom, and Charisma, and with an extra 100 hit points.
+The theme song for this NPC is: Johnny Guitar Theme
 
 
 Running this NPC:
